@@ -1,6 +1,6 @@
 [CENTER]
 
-[IMG]https://i.imgur.com/QMBaKD7.jpg[/IMG]
+[IMG]https://i.imgur.com/NdMZ3h4.png[/IMG]
 
 
 [CODE]
@@ -37,9 +37,17 @@
 - 3 finger Screenshot
 - Monet Theme
 - Themed Icons
+- Double tap to sleep on statusbar
+- Double tap to sleep on lockscreen
+- Powermenu: advanced reboot toggle - android 12 
+- Add button to AppErrorDialog to upload crash information to katbin 
+- SystemUI: Add dual-tone light and dark themes for QS
+- Unlimited Upload in Google Photos
 - Most of the a12 Stuff
 - Allow user to add/remove QS with one click
 - Add option to scramble pin layout when unlocking
+- Add switch for linked ring and media notification volumes 
+- Enabled charging ripple effect
 - Bluetooth battery level when available
 [/code]
 
@@ -47,7 +55,7 @@
 [IMG]https://i.imgur.com/0S8K8Gp.jpg[/IMG]
 
 
-[B][URL='https://sourceforge.net/projects/project-elixir/files/twelve/violet/'][SIZE=7] [B]---------- [/B]SourceForge ! [B]----------[/B] [/SIZE][/URL]
+[B][URL='https://sourceforge.net/projects/project-elixir/files/twelve/'][SIZE=7] [B]---------- [/B]SourceForge ! [B]----------[/B] [/SIZE][/URL]
 
 [B]NOTE[/B]: Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. 
 
@@ -100,9 +108,6 @@ You tell me! :p
 - ShapeShiftOS
 - Wave-Project
 - Fluid OS[/SIZE]
-
-
-[COLOR=rgb(235, 107, 86)][SIZE=5]// Special Thanks to Nipin, Subham and Raghav //[/SIZE][/COLOR][/B]
 
 [SIZE=5][B]- Others, I may have forgot to mention[/B][/SIZE]
 

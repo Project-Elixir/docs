@@ -20,11 +20,16 @@ Before you apply to add your device into our list of official devices, you shoul
 14. Any questions ? U can freely ask in Maintainers group
 15. No chat ss/msgs or anything should be forwarded outside of Maintainers group.
 16. Incase you don't have SF access ask in group and tag us.
-17. It's your duty to maintain XDA , Device Support Group, Make user base , connect with users for build reviews (support) and maintain peace and be active.
+17. It's your duty to maintain XDA , Support Group, Make user base , connect with users for build reviews (support) and maintain peace and be active.
 18. Do not leave this group without informing any admins, If U leave this group once Your device will dropped ASAP.
-19. Jenkins will be provided only for Release build with no building error and if u want to build ur own u can
-20. No matter what must have a stable tree for update on time. You can do exp with tree in between update gaps but update must be pushed within 5-8days of source changelog release.
-21. If you dont have server then dont apply for maintainership cz no point there. We can do builds but every month ? NOT Possible.
-22. Your device must be in accordance with the [Device Requirements](https://github.com/Project-Elixir/docs/blob/master/device_requirements.md)
+19. No matter what must have a stable tree for update on time. You can do exp with tree in between update gaps but update must be pushed within 5-8days of source changelog release.
+20. If you dont have server then dont apply for maintainership cz no point there. We can do builds but every month ? NOT Possible.
+21. Your device must be in accordance with the [Device Requirements](https://github.com/Project-Elixir/docs/blob/master/device_requirements.md)
+
+# Inevitable Rules
+1. XDA is compulsory for OFFICIAL Release
+2. Build must be within a week of source release
+3. Follow Guidelines  
+
 
 # Happy Building! 

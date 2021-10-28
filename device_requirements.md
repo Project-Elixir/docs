@@ -8,7 +8,7 @@ Exceptions **SHOULD** be made by contacting the administration team.
 
 - The device **MUST** have SELinux Enforcing to release builds. During Beta Stage builds it's allowed to have SELinux Permissive.
 
-- The device **MUST** have complete hardware compatibility corresponding to the stock ROM, i.e. if IR blaster works on the stock ROM, it must work on PE. Only VoLTE is allowed to be ignored, so are NFC payment methods.
+- The device **MUST** have complete hardware compatibility corresponding to the stock ROM, i.e. if IR blaster works on the stock ROM, it must work on Project Elixir. Only VoLTE is allowed to be ignored, so are NFC payment methods.
 
 - The device **MUST NOT** use custom fingerprints to get some pixel goodies/offers in OFFICIAL Builds (e.g. Pixels Build fingerprints). Project-Elixir Android 12 ROMs are bypassing SafetyNet without any additional modifications on the device side.
 
