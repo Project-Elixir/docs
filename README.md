@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/NdMZ3h4.png" />
+  <img src="https://i.imgur.com/snHlKrS.jpg" />
 </p>
 
 # Project Elixir [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://sourceforge.net/projects/project-elixir/files/twelve/) 
@@ -10,6 +10,7 @@ Project Elixir is another aftermarket AOSP ROM which offers minimal UI enhanceme
 
 ```bash
 * This ROM only has a Gapps build.
+* Essence (Customisation Cntr) is included in OFFICIAL Builds only.
 * If you want some features you wrote to be implemented, you can make pull request, given you've tested them successfully.
 * Contatct us for maintainership on Telegram for faster approch.
 ```
@@ -27,7 +28,7 @@ You must fulfill the following requirements before applying:
 - [XDA Template is Here](https://github.com/Project-Elixir/docs/blob/master/xda_template.txt)
 
 
-![Support and Donation](https://i.imgur.com/aNanj7v.png "Support and Donation")
+![Support and Donation](https://i.imgur.com/vDVCAR5.jpg "Support and Donation")
 
 ### Adding Support
  - If you want your device added to the list of OFFICIALLY supported devices, you need to contact us on Telegram with the device name, vendor, and kernel trees.

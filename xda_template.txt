@@ -1,6 +1,6 @@
 [CENTER]
 
-[IMG]https://i.imgur.com/NdMZ3h4.png[/IMG]
+[img]https://i.imgur.com/snHlKrS.jpg[/img]
 
 
 [CODE]
@@ -16,18 +16,18 @@
 [B]Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices![/B]
 
 
-[IMG]https://i.imgur.com/bYxMj5s.jpg[/IMG]
+[img]https://i.imgur.com/PoKPPuF.jpg[/img]
 
 
 [SIZE=6][B]- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Founder & lead Developer
-- [URL='https://forum.xda-developers.com/m/smokey18.10420255/']Smokey[/URL]  - Core Developer & Support Team
-- [URL='https://forum.xda-developers.com/m/sarthakroy2002.8126733/']Sarthak [/URL]  - Developer & Project Coordinator 
+- [URL='https://forum.xda-developers.com/m/prabhjot368.7768273/']Prabh [/URL]  - Developer
+- [URL='https://forum.xda-developers.com/m/sarthakroy2002.8126733/']Sarthak [/URL]  - Developer
 - [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Developer & Support Team [/B][/SIZE]
 
 [SIZE=3][SIZE=5]- And Also Our Hardworking Maintainers[/SIZE][/SIZE]
 
 
-[IMG]https://i.imgur.com/YFEl2Ap.jpg[/IMG]
+[img]https://i.imgur.com/A5oSf9f.jpg[/img]
 
 [I][SIZE=4][B]NOTE[/B]: As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our elegram group for latest changes and screenshots. [/SIZE][/I]
 
@@ -49,10 +49,11 @@
 - Add switch for linked ring and media notification volumes 
 - Enabled charging ripple effect
 - Bluetooth battery level when available
+
 [/code]
 
 
-[IMG]https://i.imgur.com/0S8K8Gp.jpg[/IMG]
+[img]https://i.imgur.com/65dC1Ef.jpg[/img]
 
 
 [B][URL='https://sourceforge.net/projects/project-elixir/files/twelve/'][SIZE=7] [B]---------- [/B]SourceForge ! [B]----------[/B] [/SIZE][/URL]
@@ -60,24 +61,20 @@
 [B]NOTE[/B]: Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. 
 
 
-[IMG]https://i.imgur.com/Hb3gl9Q.jpg[/IMG]
+[img]https://i.imgur.com/5PIB1RV.jpg[/img]
 
 [B]NOTE[/B]: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.
 
 
 [SIZE=6][B] [COLOR=rgb(235, 107, 86)]CLEAN FLASH [/COLOR](Moving From A11 to A12)[/B][/SIZE][/B]
 
-[SIZE=4]- Download the latest build and [URL='https://violet.nipin-joker.workers.dev/0:/Violet/release/OrangeFox-Unofficial-violet.zip']Recovery (Link is HERE)[/URL]
+[SIZE=4]- Download the latest build
 - Take a backup for safe side
-- Reboot to Fastboot or u can flash it via current recovery
-- [URL='https://violet.nipin-joker.workers.dev/0:/Violet/release/OrangeFox-Unofficial-violet.zip']Update/Flash OFOX recovery Given[/URL]
 - Boot to Recovery
 - Format Data by typing yes
 - Flash the latest build
-- [URL='https://drive.google.com/file/d/1n8gH7gh9yBLP6OpRGbjQ3PvJv8PZxMnF/view?usp=sharing']Flash Fcrypt v3 ( Optional )[/URL]
 - Reboot :p[/SIZE]
 
-[B][SIZE=3][SIZE=5]Also if you want u can flash AZURE Kernel over the stock ( [COLOR=rgb(235, 107, 86)]Highly recommended [/COLOR]) : [/SIZE][/SIZE][/B][SIZE=3][URL='https://drive.google.com/file/d/1Teh7vJZVSeQBYkh2O79pdyACWRAnzLb4/view?usp=sharing'][B][SIZE=3]Link Here[/SIZE][/B][/URL] [[URL='https://github.com/Panchajanya1999/msm-4.14']Kernel Source[/URL]][/SIZE]
 
 [B] [SIZE=6][COLOR=rgb(235, 107, 86)]What works?[/COLOR][/SIZE] [/B]
 
@@ -87,7 +84,6 @@ Almost everything[/SIZE]
 
 [B][SIZE=5][B][COLOR=rgb(235, 107, 86)]What doesn't work? or Any Bug ?[/COLOR][/B][/SIZE][/B]
 
-Enforcing [TEMP]
 You tell me! :p
 
 [SIZE=5][B][COLOR=rgb(235, 107, 86)]BUG REPORT !![/COLOR][/B][/SIZE]
@@ -95,29 +91,24 @@ You tell me! :p
 [SIZE=4]As soon as the problem occurs, take a logcat and please inform us via Telegram or XDA.
 [URL='http://telegra.ph/Logcats-are-important-03-01']for more READ THIS[/URL][/SIZE]
 
-[IMG]https://i.imgur.com/cOhoAaU.jpg[/IMG]
-
+[img]https://i.imgur.com/BWBCkKG.jpg[/img]
 
 [SIZE=5][B]- Android Open-Source Project[/B][/SIZE]
 [B][SIZE=4]- Pixel Experience
 - LineageOS
-- Havoc-OS
-- ProtonAOSP
-- AOSPA
-- Project-404
-- ShapeShiftOS
-- Wave-Project
-- Fluid OS[/SIZE]
+- Proton AOSP
+- Arrow OS
+[/SIZE]
 
 [SIZE=5][B]- Others, I may have forgot to mention[/B][/SIZE]
 
-[IMG]https://i.imgur.com/fpRfTVo.jpg[/IMG]
+[img]https://i.imgur.com/BuRWbqr.jpg[/img]
 
-[SIZE=5]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] October 2021[/B][/COLOR]
-- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B][URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL][/B][/COLOR]
-- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] Redmi Note 7 Pro [/B][/COLOR] [/B]
-- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] violet [/B][/COLOR]   
+[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] December 2021[/B][/COLOR]
+- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
+- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
+- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  
 
 [SIZE=7]---------- Sources and Documentation ----------[/SIZE][/B][/SIZE]
 
@@ -125,7 +116,9 @@ You tell me! :p
 [SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE]
 [SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
 
-[IMG]https://i.imgur.com/yP3XUM6.jpg[/IMG]
+
+[img]https://i.imgur.com/vDVCAR5.jpg[/img]
+
 
 [B][SIZE=7]---------- Join Telegram Group & Channel ---------- [/SIZE][/B][/B][/SIZE]
 
