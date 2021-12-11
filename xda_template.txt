@@ -33,23 +33,60 @@
 
 [SIZE=4][B][COLOR=rgb(235, 107, 86)]// Features of Initial Android 12 Build and will be updated on every release //[/COLOR][/B][/SIZE]
 [code]
-- Pure Pixel Goodies
-- 3 finger Screenshot
-- Monet Theme
-- Themed Icons
+STATUSBAR
+- 4G Icon Instead of LTE.
+- Added battery icon customisation
+- Added statusbar clock & date customisation
+- VoLTE icon toggle.
+- Volte and Vowifi icon picker
+
+Navigation Bar
+- System navigation
+
+QUICK SETTINGS
+- Vibrate on touch.
+
+GESTURES
 - Double tap to sleep on statusbar
 - Double tap to sleep on lockscreen
-- Powermenu: advanced reboot toggle - android 12 
-- Add button to AppErrorDialog to upload crash information to katbin 
-- SystemUI: Add dual-tone light and dark themes for QS
-- Unlimited Upload in Google Photos
-- Most of the a12 Stuff
-- Allow user to add/remove QS with one click
-- Add option to scramble pin layout when unlocking
+- Extended swipe gesture.
+- Quick open camera.
+- One handed mode.
+- Power button press and hold gesture.
+- Power button torch gesture.
+- Screen off power button torch.
+- Three finger swipe screenshot.
+
+BUTTONS
+- Skip music tracks.
+- Volume rocker wake.
+
+NOTIFICATIONS
+- Incall Vibrations.
 - Add switch for linked ring and media notification volumes 
+- Allow to suppress notifications sound/vibration if screen is ON
+- Added Lockscreen Charging info
+- Add option to enable AOD on charging only
+
+POWER MENU
+- Advanced Reboot.
+- Power menu items.
+
+SEURITY
+- Add option to scramble pin layout when unlocking
+- Introduce pocket lock mode
+
+MISC
+- Pure Pixel Goodies
+- Monet Theme (Wallpaper based accent)
+- Themed Icons
+- Add capability to allow tethering to use VPN
 - Enabled charging ripple effect
 - Bluetooth battery level when available
+- Allow user to add/remove QS with one click
 
+Lots more to coming soon !
+Stay Tuned!!
 [/code]
 
 
