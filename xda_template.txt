@@ -29,7 +29,7 @@
 
 [img]https://i.imgur.com/A5oSf9f.jpg[/img]
 
-[I][SIZE=4][B]NOTE[/B]: As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our elegram group for latest changes and screenshots. [/SIZE][/I]
+[I][SIZE=4][B]NOTE[/B]: As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our telegram group for latest changes and screenshots. [/SIZE][/I]
 
 [SIZE=4][B][COLOR=rgb(235, 107, 86)]// Features of Initial Android 12 Build and will be updated on every release //[/COLOR][/B][/SIZE]
 [code]
