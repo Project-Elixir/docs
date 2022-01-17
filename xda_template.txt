@@ -20,9 +20,9 @@
 
 
 [SIZE=6][B]- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Founder & lead Developer
-- [URL='https://forum.xda-developers.com/m/prabhjot368.7768273/']Prabh [/URL]  - Developer
-- [URL='https://forum.xda-developers.com/m/sarthakroy2002.8126733/']Sarthak [/URL]  - Developer
-- [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Developer & Support Team [/B][/SIZE]
+- [URL='https://forum.xda-developers.com/m/official_pro.5247795/#about']Probir [/URL]  - Developer / Team
+- [URL='https://forum.xda-developers.com/m/prabhjot368.7768273/']Prabh [/URL]  - Developer / Team
+- [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Support Team [/B][/SIZE]
 
 [SIZE=3][SIZE=5]- And Also Our Hardworking Maintainers[/SIZE][/SIZE]
 
