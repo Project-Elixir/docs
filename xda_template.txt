@@ -20,9 +20,9 @@
 
 
 [SIZE=6][B]- [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav[/URL]  - Founder & lead Developer
-- [URL='https://forum.xda-developers.com/m/official_pro.5247795/#about']Probir [/URL]  - Developer / Team
+- [URL='https://forum.xda-developers.com/m/official_pro.5247795/']Probir [/URL]  - Developer / Team
 - [URL='https://forum.xda-developers.com/m/prabhjot368.7768273/']Prabh [/URL]  - Developer / Team
-- [URL='https://forum.xda-developers.com/m/allworkdone.11442851/']Abhishek[/URL]  - Support Team [/B][/SIZE]
+- [URL='https://forum.xda-developers.com/m/lopster70.10938609/']Abhishek (Lop)[/URL]  - Support Team [/B][/SIZE]
 
 [SIZE=3][SIZE=5]- And Also Our Hardworking Maintainers[/SIZE][/SIZE]
 
@@ -157,8 +157,9 @@ You tell me! :p
 [img]https://i.imgur.com/vDVCAR5.jpg[/img]
 
 
-[B][SIZE=7]---------- Join Telegram Group & Channel ---------- [/SIZE][/B][/B][/SIZE]
+[B][SIZE=7]---------- OFFICIAL Website and Telegram Support Groups ---------- [/SIZE][/B][/B][/SIZE]
 
+[SIZE=5]-- [/SIZE][URL='https://projectelixiros.com/'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL]
 [SIZE=5][B][SIZE=5][B]-- [/B] [/SIZE][B][URL='https://t.me/Elixir_Updates'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--[/SIZE]
 [SIZE=5]-- [/SIZE][/B][SIZE=5][B] [URL='https://t.me/Elixir_Discussion']SUPPORT/DISCUSSION TELEGRAM GROUP[/URL] --[/B][/SIZE]
 
