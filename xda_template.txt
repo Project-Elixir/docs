@@ -33,7 +33,7 @@
 
 [img]https://i.imgur.com/hJB9yS3.jpg[/img]
 
-[I][SIZE=4][B]NOTE[/B]: [URL='https://projectelixiros.com/gallery']As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/URL][/SIZE][/I]
+[SIZE=4][B]NOTE[/B]: [URL='https://projectelixiros.com/gallery']As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/URL][/SIZE]
 
 [SIZE=4][B][COLOR=rgb(235, 107, 86)][URL='https://projectelixiros.com/changelog']// Features of Initial Android 12 Build and will be updated on every release //[/URL][/COLOR][/B][/SIZE]
 
@@ -100,13 +100,13 @@ Stay Tuned!!
 [img]https://i.imgur.com/NYGtJjs.jpg[/img]
 
 
-[B][URL='https://sourceforge.net/projects/project-elixir/files/twelve/'][SIZE=7] [B]---------- [/B]SourceForge ! [B]----------[/B] [/SIZE][/URL]
+[B][URL='https://sourceforge.net/projects/project-elixir/files/twelve/'][SIZE=8] [B]---------- [/B]SourceForge ! [B]----------[/B] [/SIZE][/URL]
 
 [B]NOTE[/B]: Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. 
 
 
-[B][URL='https://projectelixiros.com/home'][SIZE=7] [B]---------- [/B]Visit Our Official Website[B]----------[/B] [/SIZE][/URL]
-[B][URL='https://projectelixiros.com/gallery'][SIZE=7]------ Tap Here for Screenshots ------[/SIZE][/URL][/B] 
+[B][URL='https://projectelixiros.com/home'][SIZE=6] [B]---------- [/B]Visit Our Official Website[B]----------[/B] [/SIZE][/URL]
+[B][URL='https://projectelixiros.com/gallery'][SIZE=6]------ Tap Here for Screenshots ------[/SIZE][/URL][/B] 
 
 [img]https://i.imgur.com/UXZsIV9.jpg[/img]
 
@@ -157,7 +157,7 @@ You tell me! :p
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  
 
-[SIZE=7]---------- Sources and Documentation ----------[/SIZE][/B][/SIZE]
+[SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE]
 
 [SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] [/SIZE]
 [SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE]
@@ -168,7 +168,7 @@ You tell me! :p
 [img]https://i.imgur.com/jSshoUc.jpg[/img]
 
 
-[B][SIZE=7]---------- OFFICIAL Website and Telegram Support Groups ---------- [/SIZE][/B][/B][/SIZE]
+[B][SIZE=7]-- OFFICIAL Website and Telegram Support Groups --[/SIZE][/B][/B][/SIZE]
 
 [SIZE=5]-- [/SIZE][URL='https://projectelixiros.com/'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL]
 [SIZE=5][B][SIZE=5][B]-- [/B] [/SIZE][B][URL='https://t.me/Elixir_Updates'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--[/SIZE]
