@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/HkvVB5q.jpg" />
+</p>
+
 # To become a maintainer of Project Elixir
 
 Before you apply to add your device into our list of official devices, you should know a few things:
