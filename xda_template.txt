@@ -21,8 +21,8 @@
 
 [SIZE=6][B]- [URL='https://projectelixiros.com/team']Saurav[/URL]  - Founder & lead Developer
 - [URL='https://projectelixiros.com/team']Probir [/URL]  - Developer / Team
-- [URL='https://projectelixiros.com/team']Prabh [/URL]  - Developer / Team
-- [URL='https://projectelixiros.com/team']Hamza[/URL]  - Team / UI Developer
+- [URL='https://projectelixiros.com/team']Nishant [/URL]  - Developer / Team
+- [URL='https://projectelixiros.com/team']Mayur[/URL]  - Team / UI Developer
 - [URL='https://projectelixiros.com/team']Yasin[/URL]  - Moderator / Support Team
 - [URL='https://projectelixiros.com/team']Abhishek (Lop)[/URL]  - Support Team
 - [URL='https://projectelixiros.com/team']EXON[/URL]  - Graphic designer
@@ -152,7 +152,7 @@ You tell me! :p
 [img]https://i.imgur.com/ESLL08G.jpg[/img]
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] May 2022 [/B][/COLOR]
+- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2022 [/B][/COLOR]
 - [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
 - [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
 - [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  
