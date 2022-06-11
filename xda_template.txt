@@ -1,6 +1,6 @@
 [CENTER]
 
-[img]https://i.imgur.com/HkvVB5q.jpg[/img]
+[IMG]https://i.imgur.com/HkvVB5q.jpg[/IMG]
 
 
 [CODE]
@@ -13,175 +13,147 @@
 "[COLOR=rgb(251, 160, 38)]This is a user-friendly thread, all your suggestions, and proper bug reports are important to us but don't be disrespectful to anyone here. Your suggestions and proper bug reports will be taken into consideration.[/COLOR]."
 
 
-[B]Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices![/B]
+[I][SIZE=4]Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices![/SIZE][/I]
 
 
-[img]https://i.imgur.com/54eoyEC.jpg[/img]
+
+[IMG]https://i.imgur.com/54eoyEC.jpg[/IMG]
 
 
-[SIZE=6][B]- [URL='https://projectelixiros.com/team']Saurav[/URL]  - Founder & lead Developer
-- [URL='https://projectelixiros.com/team']Probir [/URL]  - Developer / Team
-- [URL='https://projectelixiros.com/team']Nishant [/URL]  - Developer / Team
-- [URL='https://projectelixiros.com/team']Mayur[/URL]  - Team / UI Developer
-- [URL='https://projectelixiros.com/team']Yasin[/URL]  - Moderator / Support Team
-- [URL='https://projectelixiros.com/team']Abhishek (Lop)[/URL]  - Support Team
-- [URL='https://projectelixiros.com/team']EXON[/URL]  - Graphic designer
-[/B][/SIZE]
 
-[SIZE=3][SIZE=5]- [URL='https://projectelixiros.com/team']And Also Our Hardworking Maintainers[/URL][/SIZE][/SIZE]
+[SIZE=4][SIZE=5][B][I]- [URL='https://github.com/ugly-kid-af']Saurav[/URL]  - Founder & lead Developer[/I][/B][/SIZE][/SIZE]
+[I]
+[SIZE=4][SIZE=5]- [URL='https://projectelixiros.com/team']Probir [/URL]  - Developer / Team[/SIZE][/SIZE]
 
+[SIZE=4][SIZE=5]- [URL='https://projectelixiros.com/team']Nishant [/URL]  - Developer / Team[/SIZE][/SIZE]
+[/I]
+[SIZE=4][SIZE=5][I]- [URL='https://projectelixiros.com/team']Mayur[/URL]  - Developer / Team[/I][/SIZE][/SIZE]
 
-[img]https://i.imgur.com/hJB9yS3.jpg[/img]
-
-[SIZE=4][B]NOTE[/B]: [URL='https://projectelixiros.com/gallery']As we keep updating source so its hard to keep threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/URL][/SIZE]
-
-[SIZE=4][B][COLOR=rgb(235, 107, 86)][URL='https://projectelixiros.com/changelog']// Features of Initial Android 12 Build and will be updated on every release //[/URL][/COLOR][/B][/SIZE]
-
-[code]
-STATUSBAR
-- 4G Icon Instead of LTE.
-- Added battery icon customisation
-- Added statusbar clock & date customisation
-- VoLTE icon toggle.
-- Volte and Vowifi icon picker
-
-Navigation Bar
-- System navigation
-
-QUICK SETTINGS
-- Vibrate on touch.
-
-GESTURES
-- Double tap to sleep on statusbar
-- Double tap to sleep on lockscreen
-- Extended swipe gesture.
-- Quick open camera.
-- One handed mode.
-- Power button press and hold gesture.
-- Power button torch gesture.
-- Screen off power button torch.
-- Three finger swipe screenshot.
-
-BUTTONS
-- Skip music tracks.
-- Volume rocker wake.
-
-NOTIFICATIONS
-- Incall Vibrations.
-- Add switch for linked ring and media notification volumes 
-- Allow to suppress notifications sound/vibration if screen is ON
-- Added Lockscreen Charging info
-- Add option to enable AOD on charging only
-
-POWER MENU
-- Advanced Reboot.
-- Power menu items.
-
-SEURITY
-- Add option to scramble pin layout when unlocking
-- Introduce pocket lock mode
-
-MISC
-- Pure Pixel Goodies
-- Monet Theme (Wallpaper based accent)
-- Themed Icons
-- Add capability to allow tethering to use VPN
-- Enabled charging ripple effect
-- Bluetooth battery level when available
-- Allow user to add/remove QS with one click
-
-Lots more to coming soon !
-Stay Tuned!!
-[/code]
-
-[SIZE=5][B][COLOR=rgb(235, 107, 86)][URL='https://projectelixiros.com/changelog']// Checkout every changelog since first release release //[/URL][/COLOR][/B][/SIZE]
+[SIZE=4][SIZE=5][B][I]- [/I][/B][URL='https://projectelixiros.com/team'][B][I]And Also Our Hardworking Maintainers[/I][/B][/URL][/SIZE][/SIZE]
 
 
-[img]https://i.imgur.com/NYGtJjs.jpg[/img]
+
+[IMG]https://i.imgur.com/hJB9yS3.jpg[/IMG]
 
 
-[B][URL='https://downloads.projectelixiros.com/'][SIZE=8] [B]---------- [/B]Official Download Server ! [B]----------[/B] [/SIZE][/URL]
+[SIZE=4][B][SIZE=7]// [COLOR=rgb(235, 107, 86)]Checkout the latest changes you get[/COLOR] //[/SIZE][/B][/SIZE]
 
-[B]NOTE[/B]: Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. 
-
-
-[B][URL='https://projectelixiros.com/home'][SIZE=6] [B]---------- [/B]Visit Our Official Website[B]----------[/B] [/SIZE][/URL]
-[B][URL='https://projectelixiros.com/gallery'][SIZE=6]------ Tap Here for Screenshots ------[/SIZE][/URL][/B] 
-
-[img]https://i.imgur.com/UXZsIV9.jpg[/img]
-
-[B]NOTE[/B]: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.
+[SIZE=4][B][SIZE=4]Latest [COLOR=rgb(235, 107, 86)]Changelog[/COLOR][/SIZE][/B][SIZE=4]: https://projectelixiros.com/changelog[/SIZE]
 
 
-[SIZE=6][B] [COLOR=rgb(235, 107, 86)]CLEAN FLASH [/COLOR](Moving From A11 to A12)[/B][/SIZE][/B]
+[B][I]NOTE [/I][/B][I]: Well in Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/I]
 
-[SIZE=4]- Download the latest build
+
+[SIZE=7][B]// [COLOR=rgb(235, 107, 86)]A screenshot is worth of thousand words[/COLOR] //[/B][/SIZE][/SIZE]
+
+[SIZE=4][SIZE=4][B]Latest [COLOR=rgb(235, 107, 86)]Screenshots [/COLOR][/B]: https://projectelixiros.com/gallery
+
+
+[B][I]NOTE [/I][/B][I]: Well in Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/I][/SIZE]
+
+
+
+[IMG]https://i.imgur.com/NYGtJjs.jpg[/IMG]
+
+
+[B][URL='https://downloads.projectelixiros.com/'][SIZE=7] [B]---------- OFFICIAL[/B] Download Server ! [B]----------[/B] [/SIZE][/URL][/B][/SIZE]
+
+[SIZE=4][B][I]NOTE:[/I][/B][I] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. [/I][/SIZE]
+
+
+[SIZE=6]//[URL='https://projectelixiros.com/home'] Visit Our OFFICIAL Website[/URL] //
+// [URL='https://projectelixiros.com/gallery'] Tap Here for Screenshots [/URL]//[/SIZE]
+
+
+
+[SIZE=4][B][IMG]https://i.imgur.com/UXZsIV9.jpg[/IMG][/B][/SIZE]
+
+
+[SIZE=3][B][I]NOTE: [/I][/B][I]It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/I][/SIZE]
+
+
+[SIZE=4][B][SIZE=6][B][I] [COLOR=rgb(235, 107, 86)]CLEAN FLASH [/COLOR](Moving From A11 to A12)[/I][/B][/SIZE][/B][/SIZE]
+[I]
+[SIZE=4][SIZE=4][I]- Download the latest build[/I]
 - Take a backup for safe side
 - Boot to Recovery
 - Format Data by typing yes
-- Flash the latest build
-- Reboot :p[/SIZE]
+- Flash the latest build[/SIZE]
+[I][SIZE=4]- Reboot[/SIZE][/I][B][SIZE=4][I] :p[/I][/SIZE]
 
 
-[B] [SIZE=6][COLOR=rgb(235, 107, 86)]What works?[/COLOR][/SIZE] [/B]
+ [SIZE=6][COLOR=rgb(235, 107, 86)]What works?[/COLOR][/SIZE] [/B][/SIZE]
 
-[SIZE=4]Wifi | RIL | Mobile data | GPS | Camera
+[SIZE=4][SIZE=4][I]Wifi | RIL | Mobile data | GPS | Camera[/I]
 Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibration
-Almost everything[/SIZE]
-
-[B][SIZE=5][B][COLOR=rgb(235, 107, 86)]What doesn't work? or Any Bug ?[/COLOR][/B][/SIZE][/B]
-
-You tell me! :p
-
-[SIZE=5][B][COLOR=rgb(235, 107, 86)]BUG REPORT !![/COLOR][/B][/SIZE]
-
-[SIZE=4]As soon as the problem occurs, take a logcat and please inform us via Telegram or XDA.
-[URL='http://telegra.ph/Logcats-are-important-03-01']for more READ THIS[/URL][/SIZE]
-
-[img]https://i.imgur.com/fOsafBy.jpg[/img]
-
-[SIZE=5][B]- Android Open-Source Project[/B][/SIZE]
-[B][SIZE=4]- Pixel Experience
-- LineageOS
-- Proton AOSP
-- Arrow OS
-[/SIZE]
-
-[SIZE=5][B]- Others, I may have forgot to mention[/B][/SIZE]
-
-[img]https://i.imgur.com/ESLL08G.jpg[/img]
-
-[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR]
-- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2022 [/B][/COLOR]
-- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
-- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
-- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  
-
-[SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE]
-
-[SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] [/SIZE]
-[SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE]
-[SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
-[SIZE=5][B][SIZE=5]- [B][URL='https://projectelixiros.com/documentation'][COLOR=rgb(243, 121, 52)]Documentation[/COLOR][/URL][/B] [/SIZE]
+[I]Almost everything[/I][/SIZE]
 
 
-[img]https://i.imgur.com/jSshoUc.jpg[/img]
+[B][SIZE=5][B][COLOR=rgb(235, 107, 86)]What doesn't work? or Any Bug ?[/COLOR][/B][/SIZE][/B][/SIZE]
+
+[SIZE=4][I]You tell me! :p[/I]
 
 
-[B][SIZE=7]-- OFFICIAL Website and Telegram Support Groups --[/SIZE][/B][/B][/SIZE]
+[B][SIZE=5][B][COLOR=rgb(235, 107, 86)]BUG REPORT !![/COLOR][/B][/SIZE][/B][/SIZE]
 
-[SIZE=5]-- [/SIZE][URL='https://projectelixiros.com/'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL]
-[SIZE=5][B][SIZE=5][B]-- [/B] [/SIZE][B][URL='https://t.me/Elixir_Updates'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--[/SIZE]
-[SIZE=5]-- [/SIZE][/B][SIZE=5][B] [URL='https://t.me/Elixir_Discussion']SUPPORT/DISCUSSION TELEGRAM GROUP[/URL] --[/B][/SIZE]
-
-
-[img]https://i.imgur.com/ZAV6Gdf.jpg[/img]
+[SIZE=4][SIZE=4][I]As soon as the problem occurs, take a logcat and please inform us via Telegram or XDA.[/I][/SIZE][/SIZE][/I]
+[SIZE=4][SIZE=4][URL='http://telegra.ph/Logcats-are-important-03-01'][I]for more READ THIS[/I][/URL][/SIZE]
 
 
-[B][SIZE=4]As you know build is free but building ROM needs a server. And Maintaining source and device stuff needs a server and it's pretty expensive for a student. It will be really helpful and appreciated if you donate or contribute to us. Also if you have any queries related to donation you can freely message -> [URL='https://forum.xda-developers.com/m/sourav24071999.9437589/']Saurav (Founder & lead Dev)[/URL] [/SIZE][/B][/B][/SIZE]
 
-[SIZE=5][B][SIZE=4][B]PAYTM UPI ID[/B][/SIZE][B][SIZE=4] : dwarmachine24@paytm[/SIZE][/B][/B][/SIZE]
-[SIZE=5][B][B][SIZE=4]GPAY UPI ID: dwarmachine24@oksbi[/SIZE][/B][/B][/SIZE]
-[SIZE=5][B][SIZE=4][B]PAYPAL: [URL]https://www.paypal.me/uglykid24[/URL][/B][/SIZE][/B][/SIZE]
+[B][IMG]https://i.imgur.com/fOsafBy.jpg[/IMG]
+
+
+[SIZE=5][B][I]- Android Open-Source Project[/I][/B][/SIZE][/B][/SIZE]
+[I][SIZE=4][B][SIZE=4]- Pixel Experience[/SIZE]
+[SIZE=4]- LineageOS[/SIZE]
+[SIZE=4]- Proton AOSP[/SIZE]
+[SIZE=4]- Arrow OS[/SIZE][/B][/SIZE]
+
+[/I]
+[SIZE=4][B][SIZE=5][B][I]- Others, I may have forgot to mention[/I][/B][/SIZE][/B][/SIZE]
+
+
+[SIZE=4][B][IMG]https://i.imgur.com/ESLL08G.jpg[/IMG]
+
+
+[SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR][/SIZE]
+[SIZE=4]- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2022 [/B][/COLOR][/SIZE]
+[SIZE=4]- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR][/SIZE]
+[SIZE=4]- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B][/SIZE]
+[SIZE=4]- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  [/B][/SIZE]
+
+
+[SIZE=4][B][SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE][/B][/SIZE]
+
+[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] [/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5]- [B][URL='https://projectelixiros.com/documentation'][COLOR=rgb(243, 121, 52)]Documentation[/COLOR][/URL][/B] [/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+
+
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][IMG]https://i.imgur.com/jSshoUc.jpg[/IMG][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+
+
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=7]-- OFFICIAL Website and Telegram Support Groups --[/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+
+[SIZE=4][B][SIZE=5][B][SIZE=5]-- [/SIZE][URL='https://projectelixiros.com/'][SIZE=5]Visit our OFFICIAL Website[/SIZE][/URL][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5][B]-- [/B] [/SIZE][URL='https://t.me/Elixir_Updates'][SIZE=5]DEVICE UPDATE TELEGRAM CHANNEL[/SIZE][/URL] [SIZE=5]--[/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5]-- [B] [URL='https://t.me/Elixir_Discussion']SUPPORT/DISCUSSION TELEGRAM GROUP[/URL] --[/B][/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+
+
+[SIZE=4][B][SIZE=5][B][SIZE=5][B][IMG]https://i.imgur.com/ZAV6Gdf.jpg[/IMG][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+
+
+[SIZE=4][B][SIZE=5][B][SIZE=5][B]// [/B][/SIZE][SIZE=4][B]Giving little CAN[/B][/SIZE][SIZE=5][B] [/B][/SIZE][COLOR=rgb(235, 107, 86)][SIZE=6][B]HELP A LOT[/B][/SIZE][/COLOR][SIZE=4] //[/SIZE][/B][/SIZE][/B]
+
+[SIZE=5][SIZE=4][I]- As you know build is free but building ROM needs a server. And Maintaining source and device stuff needs a server and it's pretty expensive for a student.[/I][/SIZE][/SIZE]
+[SIZE=5][SIZE=4][I]- Do consider donating on Patreon for sustainable support and rewards or buying me a coffee if you want to appriciate our work. [/I][/SIZE][/SIZE]
+[SIZE=5][SIZE=4][I]- Thank you for your support ![/I][/SIZE][/SIZE]
+
+
+[B][SIZE=5][B][SIZE=4]* UPI ID: [/SIZE][/B][/SIZE][/B][SIZE=5][SIZE=4]dwarmachine24@oksbi [I](Indian Users)[/I][/SIZE][/SIZE]
+[B][SIZE=5][B][SIZE=4]* Paypal: [URL]https://www.paypal.me/uglykid24[/URL][/SIZE][/B][/SIZE]
+[SIZE=5][B][SIZE=4]* Patreon: [URL]https://www.patreon.com/join/uglykid24[/URL][/SIZE][/B][/SIZE][/B][/SIZE]
 
 [/CENTER]
