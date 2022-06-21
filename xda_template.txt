@@ -148,7 +148,7 @@ Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibra
 [SIZE=4][B][SIZE=5][B][SIZE=5][B]// [/B][/SIZE][SIZE=4][B]Giving little CAN[/B][/SIZE][SIZE=5][B] [/B][/SIZE][COLOR=rgb(235, 107, 86)][SIZE=6][B]HELP A LOT[/B][/SIZE][/COLOR][SIZE=4] //[/SIZE][/B][/SIZE][/B]
 
 [SIZE=5][SIZE=4][I]- As you know build is free but building ROM needs a server. And Maintaining source and device stuff needs a server and it's pretty expensive for a student.[/I][/SIZE][/SIZE]
-[SIZE=5][SIZE=4][I]- Do consider donating on Patreon for sustainable support and rewards or buying me a coffee if you want to appriciate our work. [/I][/SIZE][/SIZE]
+[SIZE=5][SIZE=4][I]- Do consider donating on Patreon for sustainable support and rewards or buying me a coffee if you want to appreciate our work. [/I][/SIZE][/SIZE]
 [SIZE=5][SIZE=4][I]- Thank you for your support ![/I][/SIZE][/SIZE]
 
 
