@@ -127,8 +127,8 @@ Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibra
 [SIZE=4][B][SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE][/B][/SIZE]
 
 [SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] [/SIZE][/B][/SIZE][/B][/SIZE]
-[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
-[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/ProjectElixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
+[SIZE=4][B][SIZE=5][B][SIZE=5]- [B][URL='https://github.com/ProjectElixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE][/B][/SIZE][/B][/SIZE]
 [SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5]- [B][URL='https://projectelixiros.com/documentation'][COLOR=rgb(243, 121, 52)]Documentation[/COLOR][/URL][/B] [/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE]
 
 
