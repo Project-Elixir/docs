@@ -118,7 +118,7 @@ Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibra
 
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.1[/B][/COLOR][/SIZE]
-[SIZE=4]- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] June 2022 [/B][/COLOR][/SIZE]
+[SIZE=4]- [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] July 2022 [/B][/COLOR][/SIZE]
 [SIZE=4]- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR][/SIZE]
 [SIZE=4]- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B][/SIZE]
 [SIZE=4]- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  [/B][/SIZE]
@@ -154,6 +154,9 @@ Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibra
 
 [B][SIZE=5][B][SIZE=4]* UPI ID: [/SIZE][/B][/SIZE][/B][SIZE=5][SIZE=4]dwarmachine24@oksbi [I](Indian Users)[/I][/SIZE][/SIZE]
 [B][SIZE=5][B][SIZE=4]* Paypal: [URL]https://www.paypal.me/uglykid24[/URL][/SIZE][/B][/SIZE]
+
+[B][SIZE=5]Join [COLOR=rgb(235, 107, 86)]Patreon [/COLOR]for early build access of officially supported devices[/SIZE][/B]
+
 [SIZE=5][B][SIZE=4]* Patreon: [URL]https://www.patreon.com/join/uglykid24[/URL][/SIZE][/B][/SIZE][/B][/SIZE]
 
 [/CENTER]
