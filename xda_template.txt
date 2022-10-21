@@ -154,8 +154,8 @@ Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibra
 
 [B][SIZE=5][B][SIZE=4]* UPI ID: [/SIZE][/B][/SIZE][/B][SIZE=5][SIZE=4]dwarmachine24@oksbi [I](Indian Users)[/I][/SIZE][/SIZE]
 [B][SIZE=5][B][SIZE=4]* Paypal: [URL]https://www.paypal.me/uglykid24[/URL][/SIZE][/B][/SIZE]
-[B][SIZE=5][B][SIZE=4]* Bitcoin (BTC): 3Pm6JtwqCuTfKe1Szn23C8ZutF32eFtzf9 [/URL][/SIZE][/B][/SIZE]
-[B][SIZE=5][B][SIZE=4]* Buy me a Coffee: https://www.buymeacoffee.com/Uglykid/membership [/URL][/SIZE][/B][/SIZE]
+[B][SIZE=5][B][SIZE=4]* Bitcoin (BTC): [/SIZE][/B][/SIZE][/B][/B][SIZE=5][SIZE=4]3Pm6JtwqCuTfKe1Szn23C8ZutF32eFtzf9[/SIZE][/SIZE]
+[B][B][B][SIZE=5][B][SIZE=4]* Buy me a Coffee: [/SIZE][/B][/SIZE][/B][/B][/B][SIZE=5][SIZE=4][URL]https://www.buymeacoffee.com/Uglykid/membership[/URL] [/SIZE][/SIZE]
 
 [B][SIZE=5]Join [COLOR=rgb(235, 107, 86)]Patreon [/COLOR]for early build access of officially supported devices[/SIZE][/B]
 [SIZE=5][B][SIZE=4]* Patreon: [URL]https://www.patreon.com/join/uglykid24[/URL][/SIZE][/B][/SIZE][/B][/SIZE]
