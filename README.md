@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/keRz3rU.jpg" />
+  <img src="https://i.imgur.com/C0Wcdr5.png" />
 </p>
 
 ### Project Elixir [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
@@ -26,12 +26,19 @@ Project Elixir is another aftermarket AOSP ROM which offers minimal UI enhanceme
  * [**Changelog**](https://projectelixiros.com/changelog)
  * [**Telegram Discussion Group**](https://t.me/Elixir_Discussion)
 
-### DONATION LINKS ------------------
+### Do consider donating or buying me a coffee on Paypal if you want to appreciate our work or join us on Patreon for sustainable support and early build access.
 
-If you have like what we do and want to support us please consider donating to the project so we can make it even better!
+UPI ID: 
+- dwarmachine24@oksbi
 
-```bash
-PAYTM UPI ID : dwarmachine24@paytm
-GPAY UPI ID: dwarmachine24@oksbi
-PAYPAL: https://www.paypal.me/uglykid24
-```
+Patreon: 
+- https://www.patreon.com/join/uglykid24
+
+PayPal:
+- https://www.paypal.me/uglykid24
+
+Bitcoin (BTC):
+- 3Pm6JtwqCuTfKe1Szn23C8ZutF32eFtzf9
+
+Buy me a Coffee:
+- https://www.buymeacoffee.com/Uglykid/membership
