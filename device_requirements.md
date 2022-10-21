@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/HkvVB5q.jpg" />
+  <img src="https://i.imgur.com/C0Wcdr5.png" />
 </p>
 
-# Device Requirements
+### Device Requirements
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
+- The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
-Exceptions **SHOULD** be made by contacting the administration team.
+### - Exceptions **SHOULD** be made by contacting the administration team.
 
+```
 - The device **MUST** be using an ARM 64-bit software base. ARM 32-bit devices are no longer supported from our side.
 
 - The device **MUST** have SELinux Enforcing to release builds. During Beta Stage builds it's allowed to have SELinux Permissive.
@@ -23,5 +24,6 @@ Exceptions **SHOULD** be made by contacting the administration team.
 - Yet on the encryption, the device **MUST** always have the encryption enabled and enforced as per stock, not mattering if it's a FDE or FBE device. Converting the device from FDE to FBE is fine, however converting a device from FBE to FDE is strictly prohibited.
 
 - The device **MUST NOT** have the need for a lot of patches.
+```
 
 # Happy Building! 
