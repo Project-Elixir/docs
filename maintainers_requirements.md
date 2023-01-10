@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/C0Wcdr5.png" />
+  <img src="https://i.imgur.com/po2OKNU.png" />
 </p>
 
 ### Code of Conduct for Official Maintainers
@@ -89,3 +89,7 @@ Act 3: Maintainer must not share any media or illustration that may affect race/
 Act 4: Maintainer must always keep conversions in English language as it is a global community.
 ```
 ### Happy Building! 
+
+<p align="center">
+  <img src="https://i.imgur.com/EtbsAyn.png" />
+</p>
