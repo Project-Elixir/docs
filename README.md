@@ -12,7 +12,8 @@ Project Elixir basically offers a premium minimal UI enhancement & close to Stoc
 
 ```bash
 * This ROM only has a Gapps build.
-* Essence (Customisation Cntr) is included in OFFICIAL Builds only.
+* Essence (Customisations) is included in OFFICIAL Builds only.
+* UI/UX changes are also included in OFFICIAL Builds only.
 * If you want some features to be implemented, you can make a pull request, after tested them successfully.
 ```
 
