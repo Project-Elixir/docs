@@ -28,10 +28,6 @@
 
 [SIZE=4][SIZE=5][B]- [/B][/SIZE][/SIZE][URL='https://github.com/nishant6342'][SIZE=4][COLOR=rgb(255, 194, 147)][SIZE=5][B]Nishant[/B][/SIZE][/COLOR][/SIZE][/URL][SIZE=4] [SIZE=5][B]  - Co-lead Developer / Team[/B][/SIZE][/SIZE]
 
-[SIZE=4][B]- [/B][/SIZE][B][URL='https://projectelixiros.com/team'][SIZE=4][COLOR=rgb(255, 255, 255)]Probir[/COLOR][/SIZE][/URL][SIZE=4]   - Developer / Team
-
-- [/SIZE][URL='https://projectelixiros.com/team'][SIZE=4][COLOR=rgb(239, 239, 239)]Mayur[/COLOR][/SIZE][/URL][/B][SIZE=4][B]  - Developer / Team[/B]
-
 [SIZE=5][B]- [/B][/SIZE][/SIZE][URL='https://projectelixiros.com/team'][SIZE=4][COLOR=rgb(239, 239, 239)][SIZE=5][B]And Also Our Hardworking Maintainers[/B][/SIZE][/COLOR][/SIZE][/URL]
 [/CENTER]
 
