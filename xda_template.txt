@@ -61,7 +61,7 @@
 [IMG]https://i.imgur.com/SP96Kkk.png[/IMG]
 
 [CENTER]
-[B][SIZE=6][B]--------- >[/B][/SIZE] [/B][URL='https://downloads.projectelixiros.com/'][B][COLOR=rgb(255, 194, 147)][SIZE=7]OFFICIAL Download Server[/SIZE][/COLOR] [/B][/URL][B]  [/B][SIZE=6][B]< ---------[/B][/SIZE]
+[B][SIZE=6][B]--------- >[/B][/SIZE] [/B][URL='https://projectelixiros.com/download'][B][COLOR=rgb(255, 194, 147)][SIZE=7]OFFICIAL Download Server[/SIZE][/COLOR] [/B][/URL][B]  [/B][SIZE=6][B]< ---------[/B][/SIZE]
 [COLOR=rgb(255, 194, 147)] 
 [SIZE=4][B]NOTE:[/B] [/SIZE][/COLOR][SIZE=4]Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available.[/SIZE]
 
@@ -126,7 +126,7 @@ Almost everything[/SIZE]
 
 
 [CENTER][SIZE=4][B][SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(255, 194, 147)][B]13.0[/B][/COLOR][/SIZE]
-[SIZE=4]- [B]Security patch:[/B] [COLOR=rgb(255, 194, 147)][B]October 2022 [/B][/COLOR][/SIZE]
+[SIZE=4]- [B]Security patch:[/B] [COLOR=rgb(255, 194, 147)][B]August 2023 [/B][/COLOR][/SIZE]
 [SIZE=4]- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(255, 194, 147)][B]Saurav[/B][/COLOR][/SIZE]
 [SIZE=4]- [B]DEVICE[/B]: [B] [COLOR=rgb(255, 194, 147)][B]Redmi Note 7 Pro[/B][/COLOR] [/B][/SIZE]
 [SIZE=4]- [B]DEVICE CODENAME[/B]:  [B][COLOR=rgb(255, 194, 147)][B]violet[/B][/COLOR]   [/B][/SIZE]
