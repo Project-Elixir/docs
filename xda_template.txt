@@ -83,17 +83,15 @@ So do not hesitate anymore, join us now and start enjoying the beauty of stock A
 [FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/cA5qQGr.png[/IMG][/SIZE][/FONT]
 
 
-[CENTER][FONT=book antiqua][CODE][/FONT][/CENTER][/FONT][/CENTER]
-[FONT=book antiqua][CENTER][FONT=book antiqua][CENTER][FONT=book antiqua][CENTER]* Your warranty is now void.
+[CENTER][FONT=book antiqua][CODE]
+* Your warranty is now void.
 * We are not responsible for anything that may happen to your phone by installing custom ROMs.
 * We are not responsible for anything that may happen to your phone by installing any kernels.
 * You do it at your own risk and take the responsibility upon yourself 
 * You are not to blame us or XDA and its respected developers for any of your loss.
 [/CODE][/CENTER][/FONT]
 
-
 [CENTER]
-
 [FONT=book antiqua][SIZE=4][SIZE=3][B][COLOR=rgb(255, 153, 153)]NOTE[/COLOR]: [/B]It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/SIZE][/SIZE]
 
 
