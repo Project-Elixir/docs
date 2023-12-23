@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/po2OKNU.png" />
+  <img src="https://i.imgur.com/gcOvt3T.png" />
 </p>
 
 ### Project 𝓔𝓵𝓲𝔁𝓲𝓻 | Official Device Requirements
