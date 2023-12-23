@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/po2OKNU.png" />
+  <img src="https://i.imgur.com/gcOvt3T.png" />
 </p>
 
 ### Code of Conduct for Official Maintainers
