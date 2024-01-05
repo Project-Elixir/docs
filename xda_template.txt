@@ -1,183 +1,186 @@
-[FONT=book antiqua][IMG]https://i.imgur.com/iyvU4Vm.png[/IMG][/FONT]
+[CENTER][IMG]https://i.imgur.com/iyvU4Vm.png[/IMG]
 
 
-[CENTER][FONT=book antiqua][B][SIZE=7]Project [COLOR=rgb(255, 153, 153)]Elixir [/COLOR]based on[COLOR=rgb(255, 153, 153)] Android 14[/COLOR][/SIZE][/B]
+[B][SIZE=6]Project [COLOR=rgb(255, 120, 124)]Elixir[/COLOR] based on [COLOR=rgb(255, 120, 124)]Android 14[/COLOR][/SIZE]
 
-[SIZE=4]DeviceNameHere (codenamehere)
-
-
-"Redefining your android [B]experience [/B]with our new update which offers [B]minimal UI[/B] enhancement and close to Stock android experience with [B]customisation[/B]."[/SIZE]
+[SIZE=4]DeviceNameHere (codenamehere)[/SIZE][/B]
 
 
-[SIZE=3]"[COLOR=rgb(255, 153, 153)]This is a user-friendly thread, all your suggestions, and proper bug reports are important to us but don't be disrespectful to anyone here. Your suggestions and proper bug reports will be taken into consideration.[/COLOR]."[/SIZE][/FONT][/CENTER]
+[SIZE=4]"Redefining your android [B]experience [/B]with our new update which offers [B]minimal UI[/B] enhancement and close to Stock android experience with [B]customisation[/B]."[/SIZE]
 
 
-[FONT=book antiqua][IMG]https://i.imgur.com/gUYW0HI.png[/IMG][/FONT]
-
-
-[CENTER][FONT=book antiqua][SIZE=4]Project Elixir is another aftermarket AOSP ROM started in 2021, which basically offers [B]minimal UI enhancement[/B] & close to Stock Android ROM with great[B] performance, security and stability[/B]. We have support for more then 70+ devices. 
-
-Most of the OEMs' these days provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even[B] prolong support[/B] for devices that have been declared obsolete by OEMs. 
-
-Our ROMs' source code is open-source, secure, stable, and outstanding. 
-
-Your experience while using Project Elixir will be[B] butter smooth[/B] without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including[B] pixel goodies [/B]
-
-So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices from our[B] official website only[/B]![/SIZE][/FONT][/CENTER]
+[FONT=georgia][SIZE=3]"This is a [COLOR=rgb(255, 120, 124)]user-friendly thread,[/COLOR] all your suggestions, and proper bug reports are important to us but [COLOR=rgb(255, 120, 124)]don't be disrespectful to anyone[/COLOR] here. Your suggestions and proper bug reports will be taken into consideration."[/SIZE][/FONT]
 
 
 
-[FONT=book antiqua][IMG]https://i.imgur.com/aeMGJ4T.png[/IMG][/FONT]
-
-
-[CENTER][FONT=book antiqua][B][SIZE=4]These are the people who play an important role in maintaining Project Elixir source from day to day work to monthly updates[/SIZE][/B]
-
-
-[SIZE=4][SIZE=5][B]👨‍💻 - [/B][/SIZE][URL='https://github.com/ugly-kid-af'][COLOR=rgb(255, 153, 153)][COLOR=rgb(255, 153, 153)][B]Saurav[/B][/COLOR][/COLOR][/URL] [B]- [/B][URL='https://github.com/ugly-kid-af'][COLOR=rgb(255, 153, 153)][COLOR=rgb(255, 153, 153)][B]Founder[/B][/COLOR][/COLOR][/URL][URL='https://github.com/ugly-kid-af'][COLOR=rgb(255, 153, 153)][B] / lead Developer[/B][/COLOR][/URL][/SIZE]
-[SIZE=4][B]👨‍💻 - [/B][URL='https://github.com/nishant6342'][COLOR=rgb(255, 153, 153)][B]Nishant[/B][/COLOR][/URL] [SIZE=5][B] - Co-lead Developer[/B][/SIZE][/SIZE]
-
-[SIZE=4]- Our [B]Graphics [/B]and [B]Automation [/B]team support 
-- [/SIZE][URL='https://projectelixiros.com/team'][SIZE=4][COLOR=rgb(239, 239, 239)][SIZE=4]And also Our Hardworking [B]Maintainers[/B][/SIZE][/COLOR][/SIZE][/URL][/FONT][/CENTER]
+[IMG]https://i.imgur.com/gUYW0HI.png[/IMG]
 
 
 
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/xCjm7xi.png[/IMG][/SIZE][/FONT]
+Project Elixir is another aftermarket AOSP ROM started in 2021, which basically offers [B][COLOR=rgb(255, 120, 124)]minimal UI enhancement[/COLOR][/B] & close to Stock Android ROM with great[B] [COLOR=rgb(255, 120, 124)]performance, security and stability[/COLOR][/B][COLOR=rgb(255, 120, 124)].[/COLOR] We have support for more then 70+ devices.
+
+Most of the OEMs' these days provide slow and untimely updates, but we don't do that here. We [B][COLOR=rgb(255, 120, 124)]closely follow Google[/COLOR][/B] to bring the latest updates to our users, and even[B] [COLOR=rgb(255, 120, 124)]prolong support[/COLOR][/B][COLOR=rgb(255, 120, 124)] [/COLOR]for devices that have been declared obsolete by OEMs.
+
+Our ROMs' source code is open-source, secure, stable, and outstanding.
+
+Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]butter smooth[/COLOR][/B] without compromising the quality of the Android experience. In short, [COLOR=rgb(255, 120, 124)][B]Redefining your android experience[/B][/COLOR] with our new update which offers minimal UI enhancement and close to Stock android experience with customization So do not hesitate anymore, Download now from our official website only and start enjoying the beauty of stock Android.
 
 
-[CENTER][FONT=book antiqua][SIZE=4][SIZE=4][B] [COLOR=rgb(255, 153, 153)][SIZE=7]Checkout the latest changes you get[/SIZE][/COLOR] [/B][/SIZE][/SIZE]
-
-[SIZE=4][SIZE=4][B][SIZE=4]⭐ Latest [/SIZE][COLOR=rgb(255, 153, 153)][SIZE=4]Changelog[/SIZE][/COLOR][/B][SIZE=4]: [URL]https://projectelixiros.com/changelog[/URL][/SIZE]
+[I]“It's not a faith in technology. It's faith in people.” [/I][B][I]- Steve Jobs[/I][/B]
 
 
-[B]NOTE [/B]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
+[IMG]https://i.imgur.com/aeMGJ4T.png[/IMG]
+
+
+[I]"Coming together is a beginning, staying together is progress, and working together is success." [/I][B][I]- Henry Ford[/I][/B]
+
+
+[URL='https://github.com/ugly-kid-af'][SIZE=5][COLOR=rgb(255, 255, 255)][B]-->> [ Saurav - [/B][/COLOR][B][COLOR=rgb(255, 120, 124)]Founder / lead Developer[/COLOR][/B][/SIZE][/URL][SIZE=5][B] ] <<--[/B][/SIZE]
+[URL='https://github.com/nishant6342'][SIZE=5][COLOR=rgb(255, 255, 255)][B]-->> [ Nishant - Co-lead Developer[/B][/COLOR][/SIZE][/URL][B][SIZE=5] ] <<--[/SIZE][/B]
+
+- Our [B]Graphics [/B]and [B]Automation [/B]team support
+- And also Our Hardworking [B]Maintainers
+
+-->> [[URL='https://projectelixiros.com/team'][B][SIZE=4][COLOR=rgb(255, 255, 255)] Meet the whole Project Elixir team [/COLOR][COLOR=rgb(255, 120, 124)]here [/COLOR][/SIZE][/B][/URL]] <<--[/B]
+
+[SIZE=4][COLOR=rgb(255, 255, 255)]These are the people who play an important role in maintaining Project Elixir source from day to day work to monthly updates[/COLOR][/SIZE]
+
+
+
+[IMG]https://i.imgur.com/xCjm7xi.png[/IMG]
+
+
+[B][SIZE=5]Checkout the latest [COLOR=rgb(255, 120, 124)]changes[/COLOR] you get[/SIZE]
+
+-->> [ [/B][URL='https://projectelixiros.com/changelog'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/changelog[/COLOR][/URL] [B]] <<--
+
+
+[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
 
 
 [IMG]https://i.imgur.com/aIjTrrG.png[/IMG]
 
 
-[SIZE=4] [COLOR=rgb(255, 153, 153)][SIZE=7][B]A screenshot is worth of thousand words[/B][/SIZE][/COLOR] [/SIZE][/SIZE]
+[B][SIZE=5]A [COLOR=rgb(255, 120, 124)]screenshot[/COLOR] is worth of thousand words[/SIZE]
 
-[SIZE=4][SIZE=4][SIZE=4][B]⭐ Latest [COLOR=rgb(255, 153, 153)]Screenshots[/COLOR] [/B]: [URL]https://projectelixiros.com/gallery[/URL]
-
-
-[B]NOTE [/B]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE][/SIZE][/SIZE][/FONT]
-[/CENTER]
+-->> [ [/B][URL='https://projectelixiros.com/gallery'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/gallery[/COLOR][/URL] [B]] <<--
 
 
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/a3YJnnc.png[/IMG][/SIZE][/FONT]
-
-[CENTER]
-
-[FONT=book antiqua][COLOR=rgb(235, 107, 86)][SIZE=6][B]⬇️[/B][/SIZE][SIZE=4][B]  [/B][/SIZE][/COLOR][SIZE=4][URL='https://projectelixiros.com/download'][B][COLOR=rgb(255, 153, 153)][COLOR=rgb(255, 255, 255)][SIZE=7]OFFICIAL[/SIZE][/COLOR][SIZE=7] Download [/SIZE][COLOR=rgb(255, 255, 255)][SIZE=7]Server[/SIZE][/COLOR][/COLOR][/B][/URL][/SIZE] 
+[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
 
-[SIZE=4][COLOR=rgb(255, 153, 153)][SIZE=4][B] NOTE:[/B] [/SIZE][/COLOR][SIZE=4]Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check proper installtiontion guide from website.[/SIZE]
+[IMG]https://i.imgur.com/a3YJnnc.png[/IMG]
 
 
-[URL='https://projectelixiros.com/'][SIZE=6][B][COLOR=rgb(255, 255, 255)]Visit Our [/COLOR][COLOR=rgb(255, 153, 153)]OFFICIAL Website[/COLOR][/B][/SIZE][/URL] [/SIZE][/FONT]
-[/CENTER]
+[B][SIZE=5]-->> [ Our [/SIZE][/B][URL='https://projectelixiros.com/download'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Download[/COLOR][/SIZE][/B][/URL][B][SIZE=5] Server ] <<--[/SIZE]
 
 
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/cA5qQGr.png[/IMG][/SIZE][/FONT]
+ [SIZE=3]NOTE:[/SIZE][/B][SIZE=3] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check proper installtiontion guide from website.[/SIZE]
 
 
-[CENTER][FONT=book antiqua][CODE]
+[B][SIZE=5]* Visit Our [/SIZE][/B][URL='https://projectelixiros.com/'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Website[/COLOR][/SIZE][/B][/URL][B][SIZE=5] *[/SIZE][/B]
+
+
+[IMG]https://i.imgur.com/cA5qQGr.png[/IMG]
+
+
+[CODE]
 * Your warranty is now void.
 * We are not responsible for anything that may happen to your phone by installing custom ROMs.
 * We are not responsible for anything that may happen to your phone by installing any kernels.
-* You do it at your own risk and take the responsibility upon yourself 
+* You do it at your own risk and take the responsibility upon yourself
 * You are not to blame us or XDA and its respected developers for any of your loss.
-[/CODE][/CENTER][/FONT]
+[/CODE]
 
-[CENTER]
-[FONT=book antiqua][SIZE=4][SIZE=3][B][COLOR=rgb(255, 153, 153)]NOTE[/COLOR]: [/B]It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/SIZE][/SIZE]
+[B][SIZE=3][COLOR=rgb(255, 120, 124)]NOTE: [/COLOR][/SIZE][/B][SIZE=3]It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine. If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/SIZE]
 
 
-[SIZE=4][SIZE=4][B][SIZE=6][B] [COLOR=rgb(255, 153, 153)]CLEAN FLASH[/COLOR] [/B][/SIZE][/B][/SIZE][/SIZE]
+[B][SIZE=5]-->> [ [COLOR=rgb(255, 120, 124)]CLEAN FLASH[/COLOR] ] <<--[/SIZE][/B]
 
-[SIZE=4][SIZE=4][SIZE=4]- Download the latest build from website only
+- Download the latest build from website only
 - Take a backup for safe side
-- Boot to required Recovery (For  Android14)[/SIZE]
+- Boot to required Recovery (For  Android14)
 - Format Data by typing yes
-- Flash the latest build 
+- Flash the latest build
 - Reboot
 
-[B]⭐Note: [/B]Before flashing the build make sure to check proper installtiontion guide from website.
+[B][COLOR=rgb(255, 120, 124)]NOTE[/COLOR]: [/B]Before flashing the build make sure to check proper installtiontion guide from website.
 
 
-[B][COLOR=rgb(255, 153, 153)][SIZE=6]What works?[/SIZE] [/COLOR][/B][/SIZE][/SIZE]
+[B][SIZE=4][COLOR=rgb(255, 120, 124)]What works?[/COLOR][/SIZE][/B]
 
-[SIZE=4][SIZE=4][SIZE=4]Wifi | RIL | Mobile data | GPS | Camera
+Wifi | RIL | Mobile data | GPS | Camera
 Flashlight | Camcorder | Bluetooth | Fingerprint reader | Lights | Sound | vibration
-Almost everything[/SIZE]
+Almost everything
 
 
-[B][COLOR=rgb(255, 153, 153)][SIZE=5][B]What doesn't work? or Any Bug ?[/B][/SIZE][/COLOR][/B][/SIZE][/SIZE]
+[B][COLOR=rgb(255, 120, 124)][SIZE=4]What doesn't work? or Any Bug ?[/SIZE][/COLOR][/B]
 
-[SIZE=4][SIZE=4]You tell me with logs in our support group! 💬
-Or you can t[/SIZE][/SIZE][URL='https://github.com/Project-Elixir/issue_tracker/issues/new/choose'][COLOR=rgb(255, 255, 255)]ap here to [/COLOR][COLOR=rgb(209, 72, 65)]report an issue[/COLOR][COLOR=rgb(255, 255, 255)] with proper logs[/COLOR][/URL] and wait for our response. 
-
-
-[SIZE=4][SIZE=4][B][COLOR=rgb(255, 153, 153)][SIZE=5][B]BUG REPORT !![/B][/SIZE][/COLOR][/B][/SIZE][/SIZE]
-
-[SIZE=4][SIZE=4][SIZE=4]Use [B]Matlog [/B]app from playstore (For Rooted users) and for NON Rooted users use ADB logs. As soon as the problem occurs,[/SIZE][/SIZE][/SIZE][URL='https://github.com/Project-Elixir/issue_tracker/issues/new/choose'][SIZE=4][COLOR=rgb(209, 72, 65)][SIZE=4][SIZE=4] take a logcat and please inform us[/SIZE][/SIZE][/COLOR][/SIZE][/URL][SIZE=4][SIZE=4][SIZE=4] via Telegram or XDA [/SIZE][/SIZE][URL='http://telegra.ph/Logcats-are-important-03-01'][SIZE=4][COLOR=rgb(255, 153, 153)][SIZE=4]for more READ THIS[/SIZE][/COLOR][/SIZE][/URL][/SIZE][/FONT][/CENTER]
+You tell me with logs in our support group!
+Or you can [URL='https://github.com/Project-Elixir/issue_tracker/issues/new/choose'][COLOR=rgb(255, 120, 124)]Tap here to report an issue with proper logs[/COLOR][/URL] and wait for our response.
 
 
+[SIZE=4][B][COLOR=rgb(255, 120, 124)]BUG REPORT !![/COLOR][/B][/SIZE]
 
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/cWIUYu1.png[/IMG][/SIZE][/FONT]
-
-
-[CENTER][FONT=book antiqua][SIZE=4][SIZE=4][B][SIZE=5][B]- [/B][/SIZE][COLOR=rgb(255, 153, 153)][SIZE=5][B]Android Open-Source Project[/B][/SIZE][/COLOR][/B][/SIZE][/SIZE]
-
-[SIZE=4][SIZE=4]- LineageOS[/SIZE]
-- Pixel Experience
-- xdroidOSS
-[SIZE=4][B][SIZE=4]- [/SIZE][/B][/SIZE][/SIZE]And a few other ROMs not mentioned above
-
-
-[SIZE=4][B][SIZE=4][COLOR=rgb(255, 153, 153)]XDA Banner and Template Credit goes to our Graphics Team[/COLOR][/SIZE][/B][/SIZE][/FONT]
-[/CENTER]
-
-
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/xOzdQLo.png[/IMG][/SIZE][/FONT]
-
-
-[CENTER][FONT=book antiqua][SIZE=4][SIZE=4][B]- [B]Android OS version: [/B][COLOR=rgb(255, 153, 153)][B]14.0[/B][/COLOR][/B][/SIZE]
-[B]- [B]Security patch:[/B] [COLOR=rgb(255, 153, 153)][B]November 2023 [/B][/COLOR]
-
-- [B]Device[/B]: [B] [COLOR=rgb(255, 153, 153)][B]Redmi Note 7 Pro[/B][/COLOR] [/B]
-- [B]Device Codename[/B]: [B][COLOR=rgb(255, 153, 153)][B]violet[/B][/COLOR] [/B][/B]
-
-- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(255, 153, 153)][B]Saurav[/B][/COLOR]
-
-
-[SIZE=4][B][SIZE=4][B][SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE][/B][/SIZE][/SIZE]
-
-[SIZE=4][SIZE=4][B][SIZE=5][B][SIZE=5]-- [/SIZE][/B][/SIZE][/B][/SIZE][URL='https://github.com/Project-Elixir'][SIZE=4][B][SIZE=5][B][COLOR=rgb(255, 153, 153)][SIZE=5][B]ROM Source Code[/B][/SIZE][/COLOR][/B][/SIZE][/B][/SIZE][/URL][SIZE=4][B][SIZE=5][B][SIZE=5] --[/SIZE][/B][/SIZE][/B][/SIZE][/SIZE]
-[SIZE=4][SIZE=4][B][SIZE=5][B][SIZE=5]-- [/SIZE][/B][/SIZE][/B][/SIZE][URL='https://github.com/ProjectElixir-Devices'][SIZE=4][B][SIZE=5][B][COLOR=rgb(255, 153, 153)][SIZE=5][B]Kernel Source[/B][/SIZE][/COLOR][/B][/SIZE][/B][/SIZE][/URL] [SIZE=5][B]--[/B][/SIZE][/SIZE]
-[SIZE=4][SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5]-- [/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE][URL='https://projectelixiros.com/documentation'][SIZE=4][B][SIZE=5][B][SIZE=5][B][COLOR=rgb(255, 153, 153)][SIZE=5][B]Documentation & Maintainership[/B][/SIZE][/COLOR][/B][/SIZE][/B][/SIZE][/B][/SIZE][/URL] [B][SIZE=5]--[/SIZE][/B][/SIZE][/FONT][/CENTER]
+Use [B]Matlog [/B]app from playstore (For Rooted users) and for NON Rooted users use ADB logs. As soon as the problem occurs, take adb logcat and please inform us via Telegram or XDA and for more
+[B][COLOR=rgb(255, 120, 124)]READ THIS[/COLOR][/B] : http://telegra.ph/Logcats-are-important-03-01
 
 
 
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/K8udWUC.png[/IMG][/SIZE][/FONT]
+[IMG]https://i.imgur.com/cWIUYu1.png[/IMG]
 
 
-[CENTER][FONT=book antiqua][SIZE=4][SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=7]-- OFFICIAL [/SIZE][COLOR=rgb(255, 153, 153)][SIZE=7]Website[/SIZE][/COLOR][SIZE=7] and [/SIZE][COLOR=rgb(255, 153, 153)][SIZE=7]Telegram Support[/SIZE][/COLOR][SIZE=7] --[/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE][/SIZE]
+[B]-->> [ [URL='https://android.googlesource.com'][B][COLOR=rgb(255, 120, 124)][SIZE=5]Android Open-Source Project[/SIZE][/COLOR][/B][/URL] ] <<--[/B]
 
-[SIZE=4][URL='https://projectelixiros.com/'][SIZE=4][B][COLOR=rgb(239, 239, 239)][SIZE=5][B][SIZE=5]-- Visit our OFFICIAL [/SIZE][/B][/SIZE][/COLOR][COLOR=rgb(255, 153, 153)][SIZE=5][B][SIZE=5]Website[/SIZE][/B][/SIZE][/COLOR][COLOR=rgb(239, 239, 239)][SIZE=5][B][SIZE=5] --[/SIZE][/B][/SIZE][/COLOR][/B][/SIZE][/URL][/SIZE]
+[SIZE=4]-->> [ [B]LineageOS[/B] ] <<--[/SIZE]
+-->> [[SIZE=4] [B]PixelExperience[/B] ] <<--[/SIZE]
+-->> [ [SIZE=4][B]xdroidOSS[/B] ] <<--[/SIZE]
+-->> [ [SIZE=4][B]ParanoidAndroid[/B] ] <<--[/SIZE]
+-->> [ [SIZE=4][B]ProtonAOSP[/B] ] <<--[/SIZE]
+-->> [ [SIZE=4][B]CrDroid[/B] ] <<--[/SIZE]
+-->> [ [SIZE=4][B]ArrowOS[/B] ] <<--[/SIZE]
 
-[SIZE=4][URL='https://t.me/Elixir_Updates'][COLOR=rgb(239, 239, 239)][SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5][B]-- [/B] Device [/SIZE][COLOR=rgb(255, 153, 153)][SIZE=5]Update Telegram[/SIZE][/COLOR][SIZE=5] Channel[/SIZE] [SIZE=5]--[/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE][/COLOR][/URL][/SIZE]
+* And some other ROMs not mentioned above
 
-[SIZE=4][URL='https://t.me/Elixir_Discussion'][COLOR=rgb(239, 239, 239)][SIZE=4][B][SIZE=5][B][SIZE=5][B][SIZE=5]-- [/SIZE][COLOR=rgb(255, 153, 153)][SIZE=5][B]Support/Discussion[/B][/SIZE][/COLOR][SIZE=5][B] Telegram Group --[/B][/SIZE][/B][/SIZE][/B][/SIZE][/B][/SIZE][/COLOR][/URL][/SIZE][/FONT][/CENTER]
-
-
-
-[FONT=book antiqua][SIZE=4][IMG]https://i.imgur.com/6f68ZV9.png[/IMG][/SIZE][/FONT]
+XDA Banner and Template [URL='https://projectelixiros.com/team'][B][COLOR=rgb(255, 120, 124)]Credit goes to our Graphics Team[/COLOR][/B][/URL]
 
 
-[CENTER][FONT=book antiqua][SIZE=4][SIZE=4][B] [COLOR=rgb(255, 153, 153)][COLOR=rgb(255, 255, 255)][SIZE=6][B]Giving a[/B][/SIZE][/COLOR][SIZE=6][B] little [/B][/SIZE][COLOR=rgb(255, 255, 255)][SIZE=6][B]can [/B][/SIZE][/COLOR][/COLOR][SIZE=6][B][COLOR=rgb(255, 153, 153)][B]HELP[/B][/COLOR][COLOR=rgb(255, 255, 255)][B] a lot[/B][/COLOR][COLOR=rgb(255, 153, 153)][B]💕[/B][/COLOR][/B][/SIZE][/B][/SIZE][/SIZE]
+
+[IMG]https://i.imgur.com/xOzdQLo.png[/IMG]
+
+
+[SIZE=4]- [B]Android OS version: [COLOR=rgb(255, 120, 124)]14.0[/COLOR][/B]
+- [B]Security patch:[/B] [B][COLOR=rgb(255, 120, 124)]January '2024[/COLOR] [/B]
+
+- [B]Device[/B]: [B][COLOR=rgb(255, 120, 124)]Redmi Note 7 Pro[/COLOR][/B]
+- [B]Device Codename[/B]: [B][COLOR=rgb(255, 120, 124)]violet[/COLOR][/B]
+
+- [B]Build author/Device Maintainer[/B] : [B][COLOR=rgb(255, 120, 124)]Saurav[/COLOR][/B]
+
+[/SIZE]
+[SIZE=5][B]---- [COLOR=rgb(255, 120, 124)]Sources[/COLOR] and [COLOR=rgb(255, 120, 124)]Documentation[/COLOR] ----[/B][/SIZE]
+[SIZE=4][/SIZE]
+[COLOR=rgb(255, 255, 255)][SIZE=4]-->> [ [/SIZE][/COLOR][URL='https://github.com/Project-Elixir'][COLOR=rgb(255, 255, 255)][SIZE=4]ROM Source Code[/SIZE][/COLOR][/URL][COLOR=rgb(255, 255, 255)][SIZE=4] ] <<--
+-->> [ [/SIZE][/COLOR][URL='https://github.com/ProjectElixir-Devices'][COLOR=rgb(255, 255, 255)][SIZE=4]Kernel Source[/SIZE][/COLOR][/URL][COLOR=rgb(255, 255, 255)][SIZE=4] ] <<--
+-->> [ [/SIZE][/COLOR][URL='https://projectelixiros.com/documentation'][COLOR=rgb(255, 255, 255)][SIZE=4]Documentation & Maintainership[/SIZE][/COLOR][/URL][COLOR=rgb(255, 255, 255)][SIZE=4] ] <<--[/SIZE][/COLOR]
+
+
+[IMG]https://i.imgur.com/K8udWUC.png[/IMG]
+
+
+[SIZE=5][B]-- [/B][/SIZE][URL='https://telegram.me/Elixir_Updates'][SIZE=5][B][COLOR=rgb(255, 255, 255)]Device Update[/COLOR] [COLOR=rgb(255, 120, 124)]Telegram[/COLOR] [COLOR=rgb(255, 255, 255)]Channel[/COLOR][/B][/SIZE][/URL][SIZE=5][B] --[/B][/SIZE]
+[B][SIZE=5]
+-- [/SIZE][/B][URL='https://projectelixiros.com/'][B][SIZE=5][COLOR=rgb(255, 120, 124)]Visit[/COLOR] [COLOR=rgb(255, 255, 255)]our OFFICIAL[/COLOR] [COLOR=rgb(255, 120, 124)]Website[/COLOR][/SIZE][/B][/URL][B][SIZE=5] --
+[/SIZE][/B]
+[SIZE=5][B]-- [/B][/SIZE][URL='https://telegram.me/Elixir_Discussion'][SIZE=5][B][COLOR=rgb(255, 255, 255)]Support/[/COLOR][COLOR=rgb(255, 120, 124)]Discussion[/COLOR] [COLOR=rgb(255, 255, 255)]Telegram Group[/COLOR][/B][/SIZE][/URL][SIZE=5][B] --[/B][/SIZE]
+
+
+[IMG]https://i.imgur.com/6f68ZV9.png[/IMG]
+
+
+[SIZE=4][SIZE=4][B] [COLOR=rgb(255, 153, 153)][COLOR=rgb(255, 255, 255)][SIZE=6][B]Giving a[/B][/SIZE][/COLOR][SIZE=6][B] [/B][/SIZE][COLOR=rgb(255, 120, 124)][SIZE=6][B]little[/B][/SIZE][/COLOR][SIZE=6][B] [/B][/SIZE][COLOR=rgb(255, 255, 255)][SIZE=6][B]can [/B][/SIZE][/COLOR][/COLOR][COLOR=rgb(255, 120, 124)][SIZE=6][B]HELP[/B][/SIZE][/COLOR][SIZE=6][B][COLOR=rgb(255, 255, 255)][B] a lot[/B][/COLOR][COLOR=rgb(255, 153, 153)][B]💕[/B][/COLOR][/B][/SIZE][/B][/SIZE][/SIZE]
 
 
 • As a matter of fact that in order to build a Custom ROM there are certain pre-requisite such as a [B]High-End Building Server (Jenkins)[/B] or PC having very High-End technical specification combined with a very High-Speed internet connection.
@@ -188,10 +191,10 @@ Or you can t[/SIZE][/SIZE][URL='https://github.com/Project-Elixir/issue_tracker/
 
 • We have supported over 7[B]0+ different android devices and kept them alive[/B] with monthly security patches. Our goal is to reach 120$ every month for servers and maintainance. With this amount we will cover our server costs, get new hardware and expand ourselves to more devices. Also bring faster and stable updates for your devices.
 
-[SIZE=4][SIZE=4][SIZE=5][SIZE=4]- Do consider donating or buying me a coffee on [/SIZE][COLOR=rgb(235, 107, 86)][SIZE=4]Paypal [/SIZE][/COLOR][SIZE=4]or join us on [/SIZE][COLOR=rgb(235, 107, 86)][SIZE=4]Patreon [/SIZE][/COLOR][SIZE=4]for sustainable support and rewards if you want to appreciate our work. [/SIZE][/SIZE]
+[SIZE=4][SIZE=4][SIZE=5][SIZE=4]- Do consider donating or buying me a coffee on [/SIZE][COLOR=rgb(235, 107, 86)][COLOR=rgb(255, 120, 124)][SIZE=4][B]Paypal[/B][/SIZE][/COLOR][SIZE=4] [/SIZE][/COLOR][SIZE=4]or join us on [/SIZE][COLOR=rgb(235, 107, 86)][COLOR=rgb(255, 120, 124)][SIZE=4][B]Patreon[/B][/SIZE][/COLOR][SIZE=4] [/SIZE][/COLOR][SIZE=4]for sustainable support and rewards if you want to appreciate our work. [/SIZE][/SIZE]
 
 [SIZE=5][SIZE=4]- Thank you for your support ![/SIZE][/SIZE]
 
-[B][SIZE=5][B][SIZE=4]* UPI ID:[/SIZE] [/B][/SIZE][/B][SIZE=5][FONT=courier new][SIZE=4]dwarmachine24@oksbi [/SIZE][/FONT][SIZE=4]([/SIZE][COLOR=rgb(255, 153, 153)][SIZE=4][B]Indian Users[/B][/SIZE][/COLOR][SIZE=4])[/SIZE][/SIZE][/SIZE][/SIZE][/FONT]
-[FONT=book antiqua][SIZE=4][SIZE=4][B][SIZE=5][B][SIZE=4]* Paypal:[/SIZE][COLOR=rgb(255, 153, 153)][SIZE=4] [URL]https://www.paypal.me/uglykid24[/URL][/SIZE][/COLOR][/B][/SIZE][/B][/SIZE][/SIZE][/FONT]
-[SIZE=4][FONT=book antiqua][SIZE=4][B][SIZE=5][B][SIZE=4]* Buy me a Coffee: [/SIZE][/B][/SIZE][/B][/SIZE][/FONT][SIZE=4][FONT=book antiqua][SIZE=5][SIZE=4][URL]https://www.buymeacoffee.com/Uglykid[/URL] [/SIZE][/SIZE][/FONT][/SIZE][/SIZE][/CENTER]
+* [/SIZE][COLOR=rgb(255, 120, 124)][SIZE=4][B]UPI ID[/B][/SIZE][/COLOR][SIZE=4]: dwarmachine24@oksbi (For Indian Users)
+* [/SIZE][COLOR=rgb(255, 120, 124)][SIZE=4][B]Paypal[/B][/SIZE][/COLOR][SIZE=4]: https://www.paypal.me/uglykid24
+* [/SIZE][COLOR=rgb(255, 120, 124)][SIZE=4][B]Buy me a Coffee[/B][/SIZE][/COLOR][SIZE=4]: https://www.buymeacoffee.com/Uglykid[/SIZE][/SIZE][/CENTER]
