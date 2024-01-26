@@ -126,6 +126,29 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
     EXTRA_UDFPS_ANIMATIONS := true
 ```
 
+### Sepolicy
+- We have moved to new sepolicy structure so kindly update ur trees accordingly
+
+- Tracked from Los :
+```
+path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" 
+  
+path="device/qcom/sepolicy_vndr/legacy-um" name="android_device_qcom_sepolicy_vndr" revision="lineage-21.0-legacy-um"
+  
+path="device/qcom/sepolicy_vndr/sm8450" name="android_device_qcom_sepolicy_vndr" revision="lineage-21.0-caf-sm8450"
+  
+path="device/qcom/sepolicy_vndr/sm8550" name="android_device_qcom_sepolicy_vndr" revision="lineage-21.0-caf-sm8550"
+```
+
+- Tracked from Elixir :
+```
+path="device/custom/sepolicy" name="device_custom_sepolicy"
+
+path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um"
+
+path="hardware/qcom-caf/common" name="hardware_qcom-caf_common"
+```
+
 <p align="center">
   <img src="https://i.imgur.com/9wgrVmV.png" />
 </p>
