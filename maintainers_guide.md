@@ -18,6 +18,7 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 - Read it fully for seamless experience
 - You can add Miui/Oos/Leica Camera but make sure its stable
 - Ship Dolby only if needed
+- You can ship Lawnchair/Pixel Launcher according to your choice (By default its Lawnchair)
 - After joining us make sure to adapt your trees for Jenkins and elixir 
 - Also make sure its properly tested on unofficial source before sending for Jenkins build
 
@@ -105,6 +106,10 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 ```
     <!-- AOSP Recovery  -->
     TARGET_USES_AOSP_RECOVERY := true
+```
+```
+    <!-- Pixel Launcher -->
+    EXCLUDE_LAWNCHAIR := true
 ```
 ```
     <!-- GMS product config -->
