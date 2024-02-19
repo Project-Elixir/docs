@@ -91,5 +91,5 @@ Act 4: Maintainer must always keep conversions in English language as it is a gl
 ### Happy Building! 
 
 <p align="center">
-  <img src="https://i.imgur.com/EtbsAyn.png" />
+  <img src="https://i.imgur.com/zY1Znpm.png" />
 </p>
