@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://imgur.com/6nrBzqm.png" />
+  <img src="https://i.imgur.com/gcOvt3T.png" />
 </p>
 
-Introducing Project Elixir now based on Android 14 シ
-"Redefining your android experience with our new update which offers minimal UI enhancement and close to Stock android experience with customization."
+### Introducing Project Elixir now based on Android 14 シ
 
-⊀ Unleash Innovation ⊁
+<p>"Redefining your android experience with our new update which offers minimal UI enhancement and close to Stock android experience with customization."</p>
+
+### ⊀ Unleash Innovation ⊁
+
 Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience.
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
-Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android.
+Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
 ### Project Elixir | Maintainers Guide Begins here 💐
 
@@ -155,5 +157,5 @@ path="hardware/qcom-caf/common" name="hardware_qcom-caf_common"
 ```
 
 <p align="center">
-  <img src="https://i.imgur.com/9wgrVmV.png" />
+  <img src="https://i.imgur.com/zY1Znpm.png" />
 </p>
