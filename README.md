@@ -9,12 +9,11 @@
 ### ⊀ Unleash Innovation ⊁
 
 Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience.
-<br>
-<br>
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
 Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+
 
 ### NOTE: 
 
@@ -34,11 +33,6 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 * [**Device Requirements**](https://projectelixiros.com/documentation)
 * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
 * [**XDA Template**](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
- 
-
-<p align="center">
-  <img src="https://i.imgur.com/Qhxd9nL.png" />
-</p>
 
 ### Official Support Group & Channel
  * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
@@ -52,20 +46,13 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
  * [**Elixir Downloads**](https://projectelixiros.com/download)
  * [**Elixir Changelog**](https://projectelixiros.com/changelog)
 
-
-### Crowdin for Project Elixir 
- * [**Elixir Crowdin**](https://crowdin.com/project/project-elixir) 
-
 ### Contact on Emergency
 * [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
 For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
 
-<br>
-
-<p align="center">
-  <img src="https://i.imgur.com/NN934sQ.png" />
-</p>
+### Help to keep Project Elixir active and running by donating. 
+Any amount is appreciated.シ
 
 ```
 UPI: dwarmachine24@oksbi
@@ -77,5 +64,7 @@ UPI: dwarmachine24@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/uJQqd7q.png" />
+  <img src="https://i.imgur.com/zY1Znpm.png" />
 </p>
+
+
