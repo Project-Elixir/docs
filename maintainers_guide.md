@@ -42,6 +42,7 @@ Project Elixir is an AOSP-based custom Android ROM with great performance, secur
 
 - Make XDA thread for Release (Only if you haven't made yet) else skip
 [XDA Template for A14](https://raw.githubusercontent.com/Project-Elixir/docs/UNO/xda_template.txt)
+- Make Proper Wiki/Flashing Gudide for your Device with Warning,Important,Reqired Files and Notes [Example](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/violet.md)
 - Make Pull Req with json from CLI channel, changelog and Guide in Device Org [Important]
 - Don't post any other download link in device channel post apart from this link (https://projectelixiros.com/download)
 - Tag/Pm @ugly_kid_af to merge Pull req for OTA and release
