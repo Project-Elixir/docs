@@ -77,7 +77,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 [B][SIZE=5]-->> [ Our [/SIZE][/B][URL='https://projectelixiros.com/download'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Download[/COLOR][/SIZE][/B][/URL][B][SIZE=5] Server ] <<--[/SIZE]
 
 
- [SIZE=3]NOTE:[/SIZE][/B][SIZE=3] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check proper installation guide from website.[/SIZE]
+ [SIZE=3]NOTE:[/SIZE][/B][SIZE=3] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check the proper installation guide from the website.[/SIZE]
 
 
 [B][SIZE=5]* Visit Our [/SIZE][/B][URL='https://projectelixiros.com/'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Website[/COLOR][/SIZE][/B][/URL][B][SIZE=5] *[/SIZE][/B]
@@ -106,7 +106,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 - Flash the latest build
 - Reboot
 
-[B][COLOR=rgb(255, 120, 124)]NOTE[/COLOR]: [/B]Before flashing the build make sure to check proper installation guide from website.
+[B][COLOR=rgb(255, 120, 124)]NOTE[/COLOR]: [/B]Before flashing the build make sure to check the proper installation guide from the website.
 
 
 [B][SIZE=4][COLOR=rgb(255, 120, 124)]What works?[/COLOR][/SIZE][/B]
