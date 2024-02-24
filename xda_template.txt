@@ -6,7 +6,7 @@
 [SIZE=4]DeviceNameHere (codenamehere)[/SIZE][/B]
 
 
-[SIZE=4]"Redefining your android [B]experience [/B]with our new update which offers [B]minimal UI[/B] enhancement and close to Stock android experience with [B]customisation[/B]."[/SIZE]
+[SIZE=4]"Redefining your android [B]experience [/B]with our new update which offers [B]minimal UI[/B] enhancement and close to Stock android experience with [B]customization[/B]."[/SIZE]
 
 
 [FONT=georgia][SIZE=3]"This is a [COLOR=rgb(255, 120, 124)]user-friendly thread,[/COLOR] all your suggestions, and proper bug reports are important to us but [COLOR=rgb(255, 120, 124)]don't be disrespectful to anyone[/COLOR] here. Your suggestions and proper bug reports will be taken into consideration."[/SIZE][/FONT]
@@ -56,7 +56,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 -->> [ [/B][URL='https://projectelixiros.com/changelog'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/changelog[/COLOR][/URL] [B]] <<--
 
 
-[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
+[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated every time everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
 
 
@@ -68,7 +68,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 -->> [ [/B][URL='https://projectelixiros.com/gallery'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/gallery[/COLOR][/URL] [B]] <<--
 
 
-[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated everytime everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
+[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated every time everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
 
 [IMG]https://i.imgur.com/a3YJnnc.png[/IMG]
@@ -77,7 +77,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 [B][SIZE=5]-->> [ Our [/SIZE][/B][URL='https://projectelixiros.com/download'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Download[/COLOR][/SIZE][/B][/URL][B][SIZE=5] Server ] <<--[/SIZE]
 
 
- [SIZE=3]NOTE:[/SIZE][/B][SIZE=3] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check proper installtiontion guide from website.[/SIZE]
+ [SIZE=3]NOTE:[/SIZE][/B][SIZE=3] Please keep in mind that these are Gapps Builds and there is no vanilla build of this rom available. So no need to flash gapps additionally. Before flashing the build make sure to check proper installation guide from website.[/SIZE]
 
 
 [B][SIZE=5]* Visit Our [/SIZE][/B][URL='https://projectelixiros.com/'][B][SIZE=5][COLOR=rgb(255, 120, 124)]OFFICIAL Website[/COLOR][/SIZE][/B][/URL][B][SIZE=5] *[/SIZE][/B]
@@ -106,7 +106,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 - Flash the latest build
 - Reboot
 
-[B][COLOR=rgb(255, 120, 124)]NOTE[/COLOR]: [/B]Before flashing the build make sure to check proper installtiontion guide from website.
+[B][COLOR=rgb(255, 120, 124)]NOTE[/COLOR]: [/B]Before flashing the build make sure to check proper installation guide from website.
 
 
 [B][SIZE=4][COLOR=rgb(255, 120, 124)]What works?[/COLOR][/SIZE][/B]
@@ -124,7 +124,7 @@ Or you can [URL='https://github.com/Project-Elixir/issue_tracker/issues/new/choo
 
 [SIZE=4][B][COLOR=rgb(255, 120, 124)]BUG REPORT !![/COLOR][/B][/SIZE]
 
-Use [B]Matlog [/B]app from playstore (For Rooted users) and for NON Rooted users use ADB logs. As soon as the problem occurs, take adb logcat and please inform us via Telegram or XDA and for more
+Use [B]Matlog [/B]app from play store (For Rooted users) and for NON Rooted users use ADB logs. As soon as the problem occurs, take adb log-cat and please inform us via Telegram or XDA and for more
 [B][COLOR=rgb(255, 120, 124)]READ THIS[/COLOR][/B] : http://telegra.ph/Logcats-are-important-03-01
 
 
@@ -152,7 +152,7 @@ XDA Banner and Template [URL='https://projectelixiros.com/team'][B][COLOR=rgb(25
 
 
 [SIZE=4]- [B]Android OS version: [COLOR=rgb(255, 120, 124)]14.0[/COLOR][/B]
-- [B]Security patch:[/B] [B][COLOR=rgb(255, 120, 124)]January '2024[/COLOR] [/B]
+- [B]Security patch:[/B] [B][COLOR=rgb(255, 120, 124)]February '2024[/COLOR] [/B]
 
 - [B]Device[/B]: [B][COLOR=rgb(255, 120, 124)]Redmi Note 7 Pro[/COLOR][/B]
 - [B]Device Codename[/B]: [B][COLOR=rgb(255, 120, 124)]violet[/COLOR][/B]
@@ -189,7 +189,7 @@ XDA Banner and Template [URL='https://projectelixiros.com/team'][B][COLOR=rgb(25
 
 • In order to maintain the source, we need High-End Servers that are generally [B]very expensive and need to be renewed every single month.[/B] For users to download the ROM at high speed and keeping the backup file as well we need good quality cloud storage. To meet with our technical expenses, a cup of coffee, and the efforts of the developers we need your monetary support!
 
-• We have supported over 7[B]0+ different android devices and kept them alive[/B] with monthly security patches. Our goal is to reach 120$ every month for servers and maintainance. With this amount we will cover our server costs, get new hardware and expand ourselves to more devices. Also bring faster and stable updates for your devices.
+• We have supported over 7[B]0+ different android devices and kept them alive[/B] with monthly security patches. Our goal is to reach 120$ every month for servers and maintenance. With this amount we will cover our server costs, get new hardware and expand ourselves to more devices. Also bring faster and stable updates for your devices.
 
 [SIZE=4][SIZE=4][SIZE=5][SIZE=4]- Do consider donating or buying me a coffee on [/SIZE][COLOR=rgb(235, 107, 86)][COLOR=rgb(255, 120, 124)][SIZE=4][B]Paypal[/B][/SIZE][/COLOR][SIZE=4] [/SIZE][/COLOR][SIZE=4]or join us on [/SIZE][COLOR=rgb(235, 107, 86)][COLOR=rgb(255, 120, 124)][SIZE=4][B]Patreon[/B][/SIZE][/COLOR][SIZE=4] [/SIZE][/COLOR][SIZE=4]for sustainable support and rewards if you want to appreciate our work. [/SIZE][/SIZE]
 
