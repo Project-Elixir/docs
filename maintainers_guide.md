@@ -156,7 +156,7 @@ EXTRA_UDFPS_ANIMATIONS := true
 > [!Warning]
 > **All the maintainers must follow templates for wiki,changelog,xda and OTA strictly**
 > - Template for Installation Guide : [Tap Here](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/template_for_wiki.md)
-> - Template for Changelog : [Tap Here](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/template_for_changelog.md)
+> - Template for Changelog : [Tap Here](https://github.com/ProjectElixir-Devices/Changelogs/blob/UNO/template_for_changelog.md)
 > - Template for XDA thread : [Tap Here](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
 > - Template for OTA Repo : [Tap Here](https://github.com/ProjectElixir-Devices/official_devices/commit/ff2850392a0ba2f1392dd9b4be686a57bc83d624)
 
