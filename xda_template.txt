@@ -53,7 +53,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 
 [B][SIZE=5]Checkout the latest [COLOR=rgb(255, 120, 124)]changes[/COLOR] you get[/SIZE]
 
- [ [/B][URL='https://projectelixiros.com/changelog'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/changelog[/COLOR][/URL] [B]] 
+[ [/B][URL='https://projectelixiros.com/changelog'][B][COLOR=rgb(235, 107, 86)]Source[/COLOR] [COLOR=rgb(255, 255, 255)]Changelog[/COLOR][/B][/URL][B] ] and [ [/B][URL='https://projectelixiros.com/download'][B][COLOR=rgb(235, 107, 86)]Device[/COLOR] [COLOR=rgb(255, 255, 255)]Changelog[/COLOR][/B][/URL][B] ]
 
 
 [SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated every time everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
@@ -65,10 +65,10 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 
 [B][SIZE=5]A [COLOR=rgb(255, 120, 124)]screenshot[/COLOR] is worth of thousand words[/SIZE]
 
- [ [/B][URL='https://projectelixiros.com/gallery'][COLOR=rgb(255, 255, 255)]https://projectelixiros.com/gallery[/COLOR][/URL] [B]] 
+So don't forget to checkout our [/B][URL='https://www.buymeacoffee.com/uglykid/gallery'][B][COLOR=rgb(235, 107, 86)]Gallery 1[/COLOR][/B][/URL][B] and [/B][URL='https://projectelixiros.com/gallery'][B][COLOR=rgb(235, 107, 86)]Gallery 2[/COLOR][/B][/URL]
 
 
-[SIZE=3]NOTE [/SIZE][/B][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated every time everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
+[SIZE=3]NOTE [/SIZE][SIZE=3]: In Project Elixir you get all the useful features and with updating source every month it's hard to keep all the threads updated every time everywhere so kindly visit our website for latest changes and screenshots.[/SIZE]
 
 
 [IMG]https://i.imgur.com/a3YJnnc.png[/IMG]
@@ -101,7 +101,7 @@ Your experience while using Project Elixir will be[B] [COLOR=rgb(255, 120, 124)]
 
 - Download the latest build from website only
 - Take a backup for safe side
-- Boot to required Recovery (For  Android14)
+- Boot to required Recovery (For Android 14)
 - Format Data by typing yes
 - Flash the latest build
 - Reboot
