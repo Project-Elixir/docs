@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/gcOvt3T.png" />
+  <img src="https://i.imgur.com/qMbhu7Z.png" />
 </p>
 
 ### Introducing Project Elixir now based on Android 14 シ
