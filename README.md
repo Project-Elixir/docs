@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-a16banner.png" />
+  <img src="https://github.com/Project-Elixir/docs/blob/cb/res/elixir-a17banner.png" />
 </p
 
 <br>   
 
-### Introducing Project Elixir now based on Android 16 シ
+### Introducing Project Elixir now based on Android 17 シ
 
 <p>"Redefine Simplicity with your android experience on our minimalistic custom rom — where sleek design meets robust security, performance, and stability."</p>
 
@@ -21,7 +21,7 @@ A screenshot is worth thousand of words so don't forget to checkout our [**galle
  * This ROM has only G-Apps build.
  * Essence (Customisations) is included in OFFICIAL Builds only.
  * UI/UX changes are also included in OFFICIAL Builds only.
- * Android 16 is the latest version
+ * Android 17 is the latest version
  * Due to toxicity in android community all builds are now exclusive to Patreon/BMC only
  * For any further queries contact us via mail or on Telegram
 
@@ -72,7 +72,7 @@ UPI: dwarmachine24@oksbi
 
 <br>
 <p align="center">
-  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-copyright.png" />
+  <img src="https://github.com/Project-Elixir/docs/blob/cb/res/elixir-copyright.png" />
 </p
 
 
